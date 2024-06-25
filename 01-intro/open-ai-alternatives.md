@@ -17,4 +17,5 @@ Let's build a list of such services that we can use instead of OpenAI
 * [Anthropic API](https://www.anthropic.com/pricing#anthropic-api) (starting from $0.25 / MTok for input and $1.25 / MTok for the output for the most affordable model)
 * [AI21Labs API](https://www.ai21.com/pricing#foundation-models) (Free trial including $10 credits for 3 months)
 * [Replicate](https://replicate.com/) (faster inference, can host any ML model. charges 0.10$ per 1M input tokens for llama/Mistral model)
+* [Gemini from Vertex AI](https://cloud.google.com/vertex-ai/generative-ai/docs/start/quickstarts/quickstart-multimodal?hl=es-419) (Use the vertex SDK for the model and acces unlimitedly using credits from a trial account)
 * Add another service above this line
